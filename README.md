@@ -2,7 +2,7 @@
 
 [Jiamian Wang](https://jiamian-wang.github.io/), [Guohao Sun](https://github.com/heliossun), [Pichao Wang](https://wangpichao.github.io/), [Dongfang Liu](https://dongfang-liu.github.io/), [Sohail Dianat](https://www.rit.edu/directory/sadeee-sohail-dianat), [Majid Rabbani](https://www.rit.edu/directory/mxreee-majid-rabbani), [Raghuveer Rao](https://ieeexplore.ieee.org/author/37281258600), [Zhiqiang Tao](https://ztao.cc/), "Text Is MASS: Modeling as Stochastic Embedding for Text-Video Retrieval".
 
-[[Paper]()] [[Pretrained Models](https://drive.google.com/drive/folders/165PUfnutKRj2_cgjHZE3mIIa8f4kmY6x?usp=sharing)] 
+[[Paper](https://arxiv.org/abs/2403.17998)] [[Pretrained Models](https://drive.google.com/drive/folders/165PUfnutKRj2_cgjHZE3mIIa8f4kmY6x?usp=sharing)] 
 
 ---
 
@@ -82,6 +82,14 @@ Run the following training code to resume the above results. Take MSRVTT as an e
 ## Citation
 If you find this work valuable for your research, we kindly request that you cite the following paper:
 
+```
+@inproceedings{wang2024text,
+  title={Text Is MASS: Modeling as Stochastic Embedding for Text-Video Retrieval}, 
+  author={Wang, Jiamian and Sun, Guohao and Wang, Pichao and Liu, Dongfang and Dianat, Sohail and Rabbani, Majid and Rao, Raghuveer and Tao, Zhiqiang},
+  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (CVPR)},
+  year={2024}
+}
+```
 
 ## Acknowledgement
 
