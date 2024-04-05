@@ -1,4 +1,4 @@
-# Text Is MASS: Modeling as Stochastic Embedding for Text-Video Retrieval (CVPR 2024)
+# Text Is MASS: Modeling as Stochastic Embedding for Text-Video Retrieval (CVPR 2024 Highlight)
 
 [Jiamian Wang](https://jiamian-wang.github.io/), [Guohao Sun](https://github.com/heliossun), [Pichao Wang](https://wangpichao.github.io/), [Dongfang Liu](https://dongfang-liu.github.io/), [Sohail Dianat](https://www.rit.edu/directory/sadeee-sohail-dianat), [Majid Rabbani](https://www.rit.edu/directory/mxreee-majid-rabbani), [Raghuveer Rao](https://ieeexplore.ieee.org/author/37281258600), [Zhiqiang Tao](https://ztao.cc/), "Text Is MASS: Modeling as Stochastic Embedding for Text-Video Retrieval".
 
