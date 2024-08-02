@@ -2,7 +2,7 @@
 
 [Jiamian Wang](https://jiamian-wang.github.io/), [Guohao Sun](https://scholar.google.com/citations?user=tf2GWowAAAAJ&hl=en), [Pichao Wang](https://wangpichao.github.io/), [Dongfang Liu](https://dongfang-liu.github.io/), [Sohail Dianat](https://www.rit.edu/directory/sadeee-sohail-dianat), [Majid Rabbani](https://www.rit.edu/directory/mxreee-majid-rabbani), [Raghuveer Rao](https://ieeexplore.ieee.org/author/37281258600), [Zhiqiang Tao](https://ztao.cc/), "Text Is MASS: Modeling as Stochastic Embedding for Text-Video Retrieval".
 
-[[Paper](https://arxiv.org/abs/2403.17998)] [Supplementary](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Wang_Text_Is_MASS_CVPR_2024_supplemental.pdf) [Poster](https://drive.google.com/file/d/1HNQ9kDYeegRWG_GuXzTubbPCPjEuDPlA/view?usp=sharing) [[Pretrained Models](https://drive.google.com/drive/folders/165PUfnutKRj2_cgjHZE3mIIa8f4kmY6x?usp=sharing)] 
+[[Paper](https://arxiv.org/abs/2403.17998)] [[Supplementary](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Wang_Text_Is_MASS_CVPR_2024_supplemental.pdf)] [[Poster](https://drive.google.com/file/d/1HNQ9kDYeegRWG_GuXzTubbPCPjEuDPlA/view?usp=sharing)] [[Pretrained Models](https://drive.google.com/drive/folders/165PUfnutKRj2_cgjHZE3mIIa8f4kmY6x?usp=sharing)] 
 
 ---
 
